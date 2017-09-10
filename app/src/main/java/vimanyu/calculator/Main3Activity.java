@@ -52,7 +52,7 @@ public class Main3Activity extends Activity
     public void delete(View view)
     {
         dbHandler.delete();
-
+        //try to delete the whole list here
     }
 
 }
