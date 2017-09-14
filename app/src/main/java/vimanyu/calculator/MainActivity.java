@@ -16,9 +16,9 @@ import android.content.Intent;
 import android.widget.Toast;
 
 
-public class MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity
+{
     //this is a test comment
-
 
     String main = null;
     boolean check = false;
@@ -162,7 +162,4 @@ public class MainActivity extends AppCompatActivity {
         startActivity(intent);
 
     }
-
-
-
 }
